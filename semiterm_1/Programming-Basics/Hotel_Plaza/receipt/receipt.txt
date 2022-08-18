@@ -1,0 +1,107 @@
+Barcode: 1721-5803-3529-7804
+Room Number: 417
+Class: First_Class
+Type of Your Room: Pent_house_Suite
+Night of Stay: 7
+Information Customer Number 1 is ...
+     First Name: Robert
+      Last Name: Mackenzie
+         Gender: Male
+            Age: 29
+     Age Status: Adult
+        Country: US
+          US ID: A123456789
+   Phone Number: +19030859525
+------------------------------------
+Information Customer Number 2 is ...
+     First Name: Jullia
+      Last Name: Tron
+         Gender: Femail
+            Age: 25
+     Age Status: Adult
+        Country: UK
+PassPort Number: P12345678
+   Phone Number: +449010001234
+------------------------------------
+Option of your Buy
+
+               BreakFast = 7
+                   Lunch = 7
+                  Dinner = 7
+          Private Waiter = 2
+Public Pool Subscribtion = 0
+        Casino Entrances = 2
+    New York Tour Ticket = 2
+-----------------------------
+
+------------------------------------
+Amount payable: 29290 $
+
+
+
+
+Barcode: 5982-1014-4620-5738
+Room Number: 1
+Class: Third_Class
+Type of Your Room: Office_Suite
+Night of Stay: 1
+Information Customer Number 1 is ...
+     First Name: Roberta
+      Last Name: Jack
+         Gender: Femail
+            Age: 11
+     Age Status: Child
+        Country: US
+          US ID: D456789
+   Phone Number: +1234567890
+------------------------------------
+Option of your Buy
+
+               BreakFast = 0
+                   Lunch = 0
+                  Dinner = 0
+          Private Waiter = 0
+Public Pool Subscribtion = 0
+        Casino Entrances = 0
+    New York Tour Ticket = 0
+-----------------------------
+Your Discount is 20 %
+
+------------------------------------
+Amount payable: 64 $
+
+
+
+
+Barcode: 3404-2659-8880-7479
+Room Number: 2
+Class: Third_Class
+Type of Your Room: Office_Suite
+Night of Stay: 3
+Information Customer Number 1 is ...
+     First Name: Rahmatollah
+      Last Name: Ansari
+         Gender: Male
+            Age: 14
+     Age Status: Teenager
+        Country: 444
+PassPort Number: P76232323
+   Phone Number: +9030859525
+------------------------------------
+Option of your Buy
+
+               BreakFast = 4
+                   Lunch = 4
+                  Dinner = 4
+          Private Waiter = 4
+Public Pool Subscribtion = 4
+        Casino Entrances = 4
+    New York Tour Ticket = 4
+-----------------------------
+
+------------------------------------
+Amount payable: 1780 $
+
+
+
+
